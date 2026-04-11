@@ -1,0 +1,13 @@
+2026-04-02T11:31:26,299  WARN XY2LinksForFacilities:51 There is no link for at least a facility. Assigning links for such facilities from coords.
+2026-04-02T11:31:26,299  WARN XY2LinksForFacilities:52  This message given only once.
+2026-04-02T11:31:26,304  WARN PrepareForSimImpl:265 'usePersonIdForMissingVehicleId' is deprecated. It will be removed soon.
+2026-04-02T11:31:26,327  WARN RandomizingTimeDistanceTravelDisutilityFactory:113 There will be no routing randomness. The randomization of the travel disutility requires the monetary distance rate to be different than zero. Continuing anyway.
+2026-04-02T11:31:26,327  WARN RandomizingTimeDistanceTravelDisutilityFactory:118 There will be no routing randomness. The randomization of the travel disutility requires the travel time cost rate to be different than zero. Continuing anyway.
+2026-04-02T11:31:26,331  WARN NetworkRoutingProvider:137 [mode: car; routingMode: car] Using deprecated routing module without access/egress. Consider using AccessEgressNetworkRouter instead.
+2026-04-02T11:31:26,335  WARN NetworkRoutingProvider:137 [mode: car; routingMode: car] Using deprecated routing module without access/egress. Consider using AccessEgressNetworkRouter instead.
+2026-04-02T11:31:26,392  WARN NetworkRoutingProvider:137 [mode: car; routingMode: car] Using deprecated routing module without access/egress. Consider using AccessEgressNetworkRouter instead.
+2026-04-02T11:31:26,392  WARN NetworkRoutingProvider:137 [mode: car; routingMode: car] Using deprecated routing module without access/egress. Consider using AccessEgressNetworkRouter instead.
+2026-04-02T11:31:27,561 ERROR BasicPlanAgentImpl:187 last activity of person driver agent id Triple Charger has end time < infty; setting it to infty
+2026-04-02T11:31:27,562 ERROR BasicPlanAgentImpl:188  This message given only once.
+2026-04-02T11:31:28,398  WARN NetworkRoutingProvider:137 [mode: car; routingMode: car] Using deprecated routing module without access/egress. Consider using AccessEgressNetworkRouter instead.
+2026-04-02T11:31:28,398  WARN NetworkRoutingProvider:137 [mode: car; routingMode: car] Using deprecated routing module without access/egress. Consider using AccessEgressNetworkRouter instead.

@@ -40,10 +40,6 @@
 			<param name="strategyName" value="BestScore" />
 			<param name="weight" value="0.9" />
 		</parameterset>
-		<parameterset type="strategysettings" >
-			<param name="strategyName" value="ReRoute" />
-			<param name="weight" value="0.1" />
-		</parameterset>
 	</module>
 
 </config>
