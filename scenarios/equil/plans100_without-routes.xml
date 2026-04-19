@@ -4,7 +4,7 @@
 <person id="1">
 	<plan>
 		<act type="h" x="-25000" y="0" link="1" end_time="06:00" />
-		<leg mode="car">
+		<leg mode="pedelec">
 		</leg>
 		<act type="w" x="10000" y="0" link="20" dur="00:10" />
 		<leg mode="car">
@@ -31,7 +31,7 @@
 <person id="3">
 	<plan>
 		<act type="h" x="-25000" y="0" link="1" end_time="05:58:30" />
-		<leg mode="car">
+		<leg mode="pedelec">
 		</leg>
 		<act type="w" x="10000" y="0" link="20" dur="01:30" />
 		<leg mode="car">
